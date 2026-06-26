@@ -1,5 +1,5 @@
-from app.routes.auth_routes import auth_bp
-from app.routes.course_routes import course_bp
+from app.routes.auth_route import auth_bp
+from app.routes.course_route import course_bp
 from app.routes.student_routes import student_bp
 
 
